@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.myenv_City_logistics
+
 
 # Spyder project settings
 .spyderproject
