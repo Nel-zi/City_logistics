@@ -4,3 +4,6 @@ sqlalchemy
 python-dotenv
 psycopg2
 matplotlib
+
+pyarrow
+azure-storage-blob
